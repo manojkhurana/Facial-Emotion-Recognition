@@ -9,4 +9,4 @@ https://www.kaggle.com/datasets/manojkhurana/fer2013-augmented-with-bicogan?rvi=
 
 https://www.kaggle.com/datasets/manojkhurana/bicogandata?rvi=1
 
-BicoGAN was trained for 18000+ epochs and final generator.hd5 achieved after training for 18000+ epochs is also uploaded under this project here
+BicoGAN was trained for 18000+ epochs and final generatorTrained.h5 achieved after training for 18000+ epochs and used to generate synthetic images is also uploaded under this project here
