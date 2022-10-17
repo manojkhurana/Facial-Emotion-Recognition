@@ -1,6 +1,10 @@
 # Facial-Emotion-Recognition
 Experiments are performed on FER2013 dataset available on Kaggle
 
+Experiments are performed to see the impact of various Geometric Augmentation Techniques and GAN augmentation
+
+Various models are created wheere a new CNN, a reference CNN and MobileNetv2 has been explored with various augmentations as stated above
+
 As part of this work FER2013 dataset was augmented using BicoGAN and synthetic images were generated to augment the dataset. Augmented dataset is available on this link:
 
 https://www.kaggle.com/datasets/manojkhurana/fer2013-augmented-with-bicogan?rvi=1
